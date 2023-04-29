@@ -1,28 +1,34 @@
 # CodeTrybe
-Welcome to the GitHub account created by [**Topman Paul-Dike**](https://github.com/tpauldike),
-mainly for demo while teaching the newbies in **ALX SE** what GitHub is about and how to use it
-effectively as a beginner or total novice in the tech world.
 
-**CodeTrybe** is a community of Software Engineers from different cohorts in **ALX SE** who came
-together for very purpose of learning together as peers and helping one another understand basic
-concepts and as well takle past and present projects together. **CodeTrybe** was founded by
-[**Topman Paul-Dike**](https://github.com/tpauldike), who came up with the initiative to help
-trainees curtail the frustrating experiences that we (especially novices) face in the **ALX SE**
-program. Being heavily supported by some young men and women of like mind, the Community blossomed
-beyond what **Topman** could have acheived alone. [**Ebube Anyanwu**](https://github.com/ebu-be)
-was the first support that **Topman** ever had, and then others showed up, *some of whom are listed below:*
+## Welcoming Note
 
-You may contact them if you want to know more about **CodeTrybe** or become a member:
+Welcome to **CodeTrybe** community. A vibrant community of young techies learning together. This community is a brain child of [Topman Paul-Dike](https://github.com/tpauldike). We as a community aim at being inclusive[^1] to all types of developers. All are welcome in the community.
+
+## History
+
+CodeTrybe is a community of Software Engineers from different cohorts in **ALX SE** who came together for very purpose of learning together as peers and helping one another understand basic concepts and as well tackle past and present projects together. CodeTrybe was founded by [Topman Paul-Dike](https://github.com/tpauldike), who came up with the initiative to help trainees curtail the frustrating experiences that we (especially novices) face in the **ALX SE** program. Being heavily supported by some young men and women of like mind, the Community blossomed beyond what **Topman** could have achieved alone. [Ebube Anyanwu](https://github.com/ebu-be) was the first support that **Topman** ever had, and then others showed up.
+
+## Contact
+
+If you have any questions, concerns or suggestion please reach out to our Admins :point_down:
+
 - [DrkGaphar](https://github.com/Abiodun-Shittu)
 - [Samfrodo](https://github.com/Samfrodo9)
 - [Naheemah](https://github.com/NaheemahBello)
+- [Topman Paul-Dike](https://github.com/tpauldike)
+- [Ebube Anyanwu](https://github.com/ebu-be)
 
-You may as well subscribe to [CodeTrybe YouTube Channel](https://youtube.com/@codetrybe), where we upload video
-recordings of our PLD sessions and some guides on how to solve certain problems, and as well
-[Topman's YouTube Channel](https://youtube.com/@tpauldike), where he briefly simplifies the solution to certain
-problems in a very insightful manner. Intended CodeTrybe Members can join us through this 
-[WhatsApp group](https://chat.whatsapp.com/Fd858bcrbVb8rNZttkgTyW)
+**If you want to join the community please [open an issue here](https://github.com/codetrybe/join/issues/new/choose)**. If you see a problem in this or any other repository you can contact [Gekko Wrld](https://github.com/gekkowrld) and or open a pull request or an issue. You can tag [@gekkowrld](https://github.com/gekkowrld) if it is urgent.
 
+Don't forget to checkout our socials:
 
-----
-###### Welcome to our world
+- [Codetrybe Youtube Channel](https://youtube.com/@codetrybe)
+- [Topman's Youtube Channel](https://youtube.com/@tpauldike)
+- [Whatsapp Group](https://chat.whatsapp.com/Fd858bcrbVb8rNZttkgTyW)
+- [Telegram Group](https://t.me/CodeTrybe)
+
+---
+
+**Happy Coding** y'all
+
+[^1]: We as a community don't tolerate any kind discrimination whatsoever. Any reports of such will be investigated and swift action be taken. Removal from the community is reserved to the community admins and no prior warning is required. Let's be kind to each other and spread the vision that Topman envisioned when creating the community.
