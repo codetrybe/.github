@@ -2,7 +2,7 @@
 
 ## Welcoming Note
 
-Welcome to **CodeTrybe** community. A vibrant community of young techies learning together. This community is a brain child of [Topman Paul-Dike](https://github.com/tpauldike). We as a community aim at being inclusive[^1] to all types of developers. All are welcome in the community.
+Welcome to **CodeTrybe** community. A vibrant community of young techies learning together. This community is a brain child of [Topman Paul-Dike](https://github.com/tpauldike). We as a community aim at being inclusive to all types of developers. All are welcome in the community.
 
 ## History
 
@@ -20,15 +20,21 @@ If you have any questions, concerns or suggestion please reach out to our Admins
 
 **If you want to join the community please [open an issue here](https://github.com/codetrybe/join/issues/new/choose)**. If you see a problem in this or any other repository you can contact [Gekko Wrld](https://github.com/gekkowrld) and or open a pull request or an issue. You can tag [@gekkowrld](https://github.com/gekkowrld) if it is urgent.
 
-Don't forget to checkout our socials:
+---
 
-- [Codetrybe Youtube Channel](https://youtube.com/@codetrybe)
-- [Topman's Youtube Channel](https://youtube.com/@tpauldike)
-- [Whatsapp Group](https://chat.whatsapp.com/Fd858bcrbVb8rNZttkgTyW)
-- [Telegram Group](https://t.me/CodeTrybe)
+<div align=center>
+<h3> Our Socials</h3>
+<a href="https://github.com/codetyrbe"><img src="https://img.icons8.com/pulsar-color/48/null/github.png" alt="CodeTrybe Github" /></a>
+&nbsp;
+<a href="https://youtube.com/@codetrybe"><img src="https://img.icons8.com/doodle/48/null/youtube-play--v2.png" alt="CodeTrybe Youtube" /></a>
+&nbsp;
+<a href="https://youtube.com/@tpauldike"><img src="https://img.icons8.com/doodle/48/null/youtube-play--v2.png" alt="CodeTrybe Youtube" /></a>
+&nbsp;
+<a href="https://chat.whatsapp.com/Fd858bcrbVb8rNZttkgTyW"><img src="https://img.icons8.com/color/48/null/whatsapp--v1.png" alt="Intended CodeTrybe Members" /></a>
+&nbsp;
+<a href="https://t.me/CodeTrybe"><img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" alt="CodeTrybe Telegram Group" /></a>
+</div>
 
 ---
 
 **Happy Coding** y'all
-
-[^1]: We as a community don't tolerate any kind discrimination whatsoever. Any reports of such will be investigated and swift action be taken. Removal from the community is reserved to the community admins and no prior warning is required. Let's be kind to each other and spread the vision that Topman envisioned when creating the community.
