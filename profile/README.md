@@ -18,7 +18,7 @@ If you have any questions, concerns or suggestion please reach out to our Admins
 - [Topman Paul-Dike](https://github.com/tpauldike)
 - [Ebube Anyanwu](https://github.com/ebu-be)
 
-**If you want to join the community please [open an issue here](https://github.com/codetrybe/join/issues/new/choose)**. If you see a problem in this or any other repository you can contact [Gekko Wrld](https://github.com/gekkowrld) and or open a pull request or an issue. You can tag [@gekkowrld](https://github.com/gekkowrld) if it is urgent.
+**If you want to join the community or become a member please [open an issue here](https://github.com/codetrybe/join/issues/new/choose)**. If you see a problem in this or any other repository you can contact [Gekko Wrld](https://github.com/gekkowrld) and or open a pull request or an issue. You can tag [@gekkowrld](https://github.com/gekkowrld) if it is urgent.
 
 ---
 
