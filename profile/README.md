@@ -1,8 +1,8 @@
-# CodeTrybe
+# Join the Vibrant CodeTrybe Community
 
-## Welcoming Note
+![Codetrybe Logo](https://raw.githubusercontent.com/gekkowrld/misc/main/images/codetrybe_1280_460.png)
 
-Welcome to **CodeTrybe** community. A vibrant community of young techies learning together. This community is a brain child of [Topman Paul-Dike](https://github.com/tpauldike). We as a community aim at being inclusive to all types of developers. All are welcome in the community.
+Welcome to the CodeTrybe Community, a thriving hub where young tech enthusiasts come together to learn and grow. Our community, founded by the visionary [Topman Paul-Dike](https://github.com/tpauldike), is dedicated to fostering inclusivity and providing support for developers of all levels. Whether you're a seasoned professional or just starting your journey, you are warmly welcomed here.
 
 ## History
 
@@ -13,12 +13,12 @@ CodeTrybe is a community of Software Engineers from different cohorts in **ALX S
 If you have any questions, concerns or suggestion please reach out to our Admins :point_down:
 
 - [DrkGaphar](https://github.com/Abiodun-Shittu)
-- [Samfrodo](https://github.com/Samfrodo9)
-- [Naheemah](https://github.com/NaheemahBello)
-- [Topman Paul-Dike](https://github.com/tpauldike)
 - [Ebube Anyanwu](https://github.com/ebu-be)
+- [Naheemah](https://github.com/NaheemahBello)
+- [Samfrodo](https://github.com/Samfrodo9)
+- [Topman Paul-Dike](https://github.com/tpauldike)
 
-**If you want to join the community or become a member please [open an issue here](https://github.com/codetrybe/community/issues/new/choose)**. If you see a problem in this or any other repository you can contact [Gekko Wrld](https://github.com/gekkowrld) and or open a pull request or an issue. You can tag [@gekkowrld](https://github.com/gekkowrld) if it is urgent.
+**If you want to join the community or become a member please [open an issue here](https://github.com/codetrybe/community/issues/new/choose)**. We as a community are open to everyone who is willing to learn and grow with us. Your suggestions and contributions are highly welcome.
 
 ---
 
@@ -37,4 +37,4 @@ If you have any questions, concerns or suggestion please reach out to our Admins
 
 ---
 
-**Happy Coding** y'all
+**Happy Coding** everyone :smile:
