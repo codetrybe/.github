@@ -10,7 +10,7 @@ CodeTrybe is a community of Software Engineers from different cohorts in **ALX S
 
 ## Contact
 
-If you have any questions, concerns or suggestion please reach out to our Admins :point_down:
+If you have any questions, concerns or suggestion please reach out on our [Discord](https://discord.gg/pBPnWU6fh5) Server or Admins :point_down:
 
 - [DrkGaphar](https://github.com/Abiodun-Shittu)
 - [Ebube Anyanwu](https://github.com/ebu-be)
@@ -30,7 +30,7 @@ If you have any questions, concerns or suggestion please reach out to our Admins
 &nbsp;
 <a href="https://youtube.com/@tpauldike"><img src="https://img.icons8.com/doodle/48/null/youtube-play--v2.png" alt="CodeTrybe Youtube" /></a>
 &nbsp;
-<a href="https://chat.whatsapp.com/Fd858bcrbVb8rNZttkgTyW"><img src="https://img.icons8.com/color/48/null/whatsapp--v1.png" alt="Intended CodeTrybe Members" /></a>
+<a href="https://discord.gg/pBPnWU6fh5"><img src="https://img.icons8.com/nolan/48/discord-logo.png" alt="CodeTrybe Discord" /></a>
 &nbsp;
 <a href="https://t.me/CodeTrybe"><img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" alt="CodeTrybe Telegram Group" /></a>
 </div>
